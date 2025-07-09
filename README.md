@@ -1,7 +1,3 @@
-Here is your text with the **titles bolded** for clarity and emphasis:
-
----
-
 This project presents an interactive sales dashboard built using Power BI. It visualizes the sales data for the first quarter of 2019, providing insights into product performance, customer demographics, and geographic trends.
 
 **📁 Project Overview**
