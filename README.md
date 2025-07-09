@@ -28,6 +28,14 @@ This project presents an interactive sales dashboard built using Power BI. It vi
 * Line chart
 * Tree map
 * KPI cards
+  
+### 🚀 How to Use
+1. Download the `.pbix` file
+2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+3. Explore and interact with visuals
+
+### 📍 Notes
+GitHub can't preview `.pbix` files, but the file is available for download.
 
 **📦 Dataset**
 The dataset is a fictional sales dataset commonly used for Power BI training purposes. It includes the following fields:
